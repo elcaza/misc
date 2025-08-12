@@ -1,2 +1,3 @@
 # Misc
-A bundle of misc used by other projects
+Un compendio de archivos utilizados en otros repositorios.
+
